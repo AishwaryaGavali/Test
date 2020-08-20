@@ -11,6 +11,8 @@ int main()
      scanf("%d",&a[r][c]);
      }
      printf("displaying the sum of row\n");
+          printf("Aishwarya is here\n");
+
      for(r=0;r<2;r++)
      {
       sum=0;
